@@ -14,3 +14,9 @@ with col2:
     the field of quantitative finance.
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python
+"""
+
+st.write(content2)
